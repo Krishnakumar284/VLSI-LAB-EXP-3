@@ -45,7 +45,7 @@ endmodule
 ### LOGIC DIAGRAM:
 ![321306760-51597005-1465-4443-96e6-c531f4b1ac38](https://github.com/Krishnakumar284/VLSI-LAB-EXP-3/assets/160303010/6a09b378-63c2-432d-9a27-5eefc57ff601)
 
-### VERILOG DIAGRAM:
+### VERILOG CODE:
 ```
 module  ha (a,b,s,c);
 input a,b;
